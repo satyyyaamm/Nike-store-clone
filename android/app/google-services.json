@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899301937930",
+    "firebase_url": "https://nike-store-31071.firebaseio.com",
+    "project_id": "nike-store-31071",
+    "storage_bucket": "nike-store-31071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899301937930:android:da35850a0c50bb311c60f3",
+        "android_client_info": {
+          "package_name": "com.satyyyaamm.nike_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899301937930-t1c83ebebng0dcrsikdmrdfqm7d75r75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyyyaamm.nike_store",
+            "certificate_hash": "fa06f2f2fa634a15be36e5fe845ffefb456ebc93"
+          }
+        },
+        {
+          "client_id": "899301937930-839acjdd1gkb88s3uisbm7d4e42pof74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf12cnejoXitmIziRdca4tpWjznPMr9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899301937930-839acjdd1gkb88s3uisbm7d4e42pof74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
