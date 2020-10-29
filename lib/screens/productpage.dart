@@ -29,8 +29,9 @@ class _ProductPageState extends State<ProductPage> {
   Future<void> _addToSave() async {
     return _firebaseServices.userreference
         .doc(_firebaseServices.getUserId())
-        .collection('save')
-        .doc(widget.productId);
+        .collection('saved')
+        .doc(widget.productId)
+        .set({'size': _selectedProductSize});
   }
 
   final SnackBar _cartSnackBar = SnackBar(
